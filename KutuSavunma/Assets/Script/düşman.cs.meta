@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3972debb455a9984cbccc4d4b4c76504
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - top: {fileID: 5234325349085763737, guid: d6608c41997db3b4382c874802aca0c7, type: 3}
+  - TopCikisNoktasi: {instanceID: 0}
+  - TopAtisEfekt: {instanceID: 0}
+  - TopAtmaSesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
